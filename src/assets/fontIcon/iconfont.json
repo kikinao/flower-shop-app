@@ -1,0 +1,44 @@
+{
+  "id": "4353650",
+  "name": "shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "840998",
+      "name": "待发货",
+      "font_class": "icon2",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "848940",
+      "name": "退款",
+      "font_class": "icon",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "9234827",
+      "name": "待发货",
+      "font_class": "daifahuo",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "10487565",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "16210444",
+      "name": "待评价",
+      "font_class": "daipingjia",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    }
+  ]
+}
