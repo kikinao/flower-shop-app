@@ -16,14 +16,14 @@
 首页及个人主页
 
 <figure>
-<img src="./展示图/5.png" style="width:30%">
-<img src="./展示图/1.png" style="width:30%">
+<img src="./展示图/5.png" style="width:20%">
+<img src="./展示图/1.png" style="width:20%">
 </figure>
 
 购物及直播回放
 
 <figure>
-<img src="./展示图/7.png" style="width:30%">
-<img src="./展示图/2.png" style="width:30%">
-<img src="./展示图/6.png" style="width:30%">
+<img src="./展示图/7.png" style="width:20%">
+<img src="./展示图/2.png" style="width:20%">
+<img src="./展示图/6.png" style="width:20%">
 </figure>
